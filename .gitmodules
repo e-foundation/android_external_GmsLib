@@ -1,3 +1,4 @@
 [submodule "GmsApi"]
 	path = extern/GmsApi
 	url = https://gitlab.e.foundation/alexch/GmsApi.git
+	branch = master
